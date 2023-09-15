@@ -32,7 +32,6 @@ body {
 .header-menu-link:hover,
 .header-menu-link:focus {
     color: #404BBF;
-    text-decoration: underline;
 }
 
 ul, ol {
@@ -46,7 +45,6 @@ ul, ol {
 .contacts-list-link {
     color: #434455;
         font-size: 16px;
-        font-style: normal;
         line-height: 1.5;
         letter-spacing: 0.02em;
         text-decoration: none;
@@ -194,12 +192,6 @@ ul, ol {
 
 span {
     color:#f4f4fd;
-        font-family: 'Raleway', sans-serif;
-        font-size: 18px;
-        font-weight: 700;
-        line-height: 1.16;
-        letter-spacing: 0.03em;
-        text-transform: uppercase;
 }
 
 .footer-copyright {
